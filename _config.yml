@@ -2,10 +2,9 @@
 title:              "星空文档"
 description:        "星空文档站"
 author_name:        "星空管理员" # change this to your name
-logo_url:           https://hellostarrysky.xyz/system/media_attachments/files/106/764/624/842/192/497/original/cfb292fd0a7bf72a.jpg # Get it from GitHub API: https://api.github.com/users/<username>
-
+logo_url:           
 # Site Settings
-url:                http://docs.hellostarrysky.xyz # main url
+url:                http://hezizizi.site/the-plain # main url
 baseurl:            /the-plain
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
